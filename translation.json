@@ -221,9 +221,15 @@
       "name": "Français",
       "code": "fr",
       "translation": {
+        "You are logged in": "Vous êtes connecté",
         "AppName": "Tiny File Manager",
         "AppTitle": "Gestionnaire de fichiers",
+        "ErrorReporting": "Rapport d'erreurs",
+        "ShowHiddenFiles": "Montrer les fichiers cachés",
+        "HideColumns": "Masquer les colonnes Permissions/Propriétaire",
+        "CalculateFolderSize": "Calculer la taille du dossier",
         "Login": "Connexion",
+        "Help": "Aide",
         "Username": "Utilisateur",
         "Password": "Mot de passe",
         "Logout": "Déconnexion",
@@ -274,8 +280,15 @@
         "Language": "Langue",
         "MemoryUsed": "Mémoire utilisée",
         "PartitionSize": "Taille de la partition",
-        "Free of": "libres sur",
-        "FreeOf": "libres sur"
+        "FreeOf": "libres sur",
+	"FullSize": "Taille réelle", 
+        "Generate new password hash": "Générer un nouveau mot de passe",
+        "Help Documents": "Documents d'aide",
+        "Report Issue": "Signaler un problème",
+        "Delete selected files and folders?": "Supprimer fichiers et dossiers sélectionnés?",
+        "Folder is empty": "Le dossier est vide",
+        "Preview": "Prévisualiser",
+        "Check Latest Version": "Vérifier la dernière version"
       }
     },
     {
